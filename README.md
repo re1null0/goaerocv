@@ -1,2 +1,1 @@
-# goaerocv
-goAero - Obstacle Detection and Avoidance using YOLO and Early Sensor Fusion (LIDAR+Camera)
+# Obstacle Detection and Avoidance using YOLO and Early Sensor Fusion (LIDAR+Camera) for goAero
